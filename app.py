@@ -3,3 +3,6 @@ def addition(a,b):
 
 def substraction(x,y):
     return x-y
+
+def division(p,q):
+    return p/q
